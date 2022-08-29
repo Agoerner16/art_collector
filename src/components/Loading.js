@@ -7,3 +7,11 @@ import React from 'react';
  *   <h2 className="message">Searching...</h2>
  * </div>
  */
+
+function Loading {
+<div id="loading">
+  <h2 className="message">Searching...</h2>
+</div>
+}
+
+export function Loading()
