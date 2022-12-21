@@ -123,4 +123,5 @@ const Search = (props) => {
   </form>
 }
 
-export default Search;
+export default Search; 
+} 
