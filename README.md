@@ -90,3 +90,4 @@ Then, `<Feature />` should:
     You've now got a working app.
   # art-collector
 # art-collector
+# art_collector_test
